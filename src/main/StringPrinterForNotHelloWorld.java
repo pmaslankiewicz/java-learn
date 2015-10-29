@@ -1,8 +1,9 @@
+package main;
 
-public class StringPrinter {
+public class StringPrinterForNotHelloWorld {
     private String string;
 
-    public StringPrinter(String string) {
+    public StringPrinterForNotHelloWorld(String string) {
         this.string = string;
     }
 
